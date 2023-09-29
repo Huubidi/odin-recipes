@@ -11,17 +11,12 @@ body {
     
 }
 
-p {
-
-    color: #76E5FC;
-    background-color: #631D76;
-
-
-}
-
 ul {
 
     background-color: #94D1BE;
+    width: 400px;
+    color: #841C26;
+    
 
 }
 
@@ -29,6 +24,10 @@ ul > li {
 
     background-color: #91818A;
     font-weight: 600;
+    padding: 5px;
+    color: rgb(23, 59, 90);
+    
+
 }
 
 
@@ -36,6 +35,7 @@ ul > li {
 ol {
 
 background-color: #841C26;
+width: 750px;
 
 }
 
@@ -44,6 +44,7 @@ ol > li {
 
     background-color: #B2A3B5;
     font-style: italic;
+    padding: 7px;
 }
 
 h1 {
@@ -56,5 +57,42 @@ h1 {
 h3 {
 
     background-color: lightblue;
+
+}
+
+.cook {
+
+position: relative;
+left: 560px;
+top: -100px;
+
+}
+
+.knifeskills {
+position: relative;
+width: 500px;
+top: -500px;    
+}
+
+.kskills {
+position: relative;
+top: -483px;
+color: #b30012;
+background-color: aqua;
+width: 86px;
+padding: 3px;
+}
+
+.b4chop {
+
+background-color: #b30012;
+
+
+}
+
+.skillsvid {
+
+    position: relative;
+    top: -505px;
 
 }
